@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0704-binary-search) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
 | ------- |
