@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0283-move-zeroes) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
