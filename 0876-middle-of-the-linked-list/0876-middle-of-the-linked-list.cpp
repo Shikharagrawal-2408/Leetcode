@@ -15,13 +15,13 @@ public:
         ListNode* fast=head;
         int cnt=0;
 
-        while(slow->next!=NULL)
+        while(slow->next!=nullptr)
         {
             cnt++;
             slow=slow->next;
         }
         slow=head;
-        while(fast->next!=NULL && fast->next->next!=NULL)
+        while(fast->next!=nullptr && fast->next->next!=nullptr)
         {
             slow=slow->next;
             fast=fast->next->next;
