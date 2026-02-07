@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
