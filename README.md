@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
