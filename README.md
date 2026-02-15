@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0392-is-subsequence) |
 ## Enumeration
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3379-transformed-array) |
 ## Linked List
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
