@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0733-flood-fill) |
+| [1672-richest-customer-wealth](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
