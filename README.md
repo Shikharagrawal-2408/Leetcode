@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
