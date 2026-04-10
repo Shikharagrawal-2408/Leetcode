@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3379-transformed-array) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Recursion
 |  |
 | ------- |
