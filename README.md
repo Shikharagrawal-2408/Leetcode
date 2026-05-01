@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0733-flood-fill) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0231-power-of-two) |
+| [0396-rotate-function](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
