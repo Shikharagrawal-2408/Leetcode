@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0069-sqrtx) |
