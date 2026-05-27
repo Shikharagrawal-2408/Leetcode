@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Recursion
 |  |
