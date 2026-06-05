@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
