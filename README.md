@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0396-rotate-function) |
