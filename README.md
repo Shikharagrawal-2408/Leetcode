@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0509-fibonacci-number) |
@@ -393,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
