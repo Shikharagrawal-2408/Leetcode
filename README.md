@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Memoization
 |  |
 | ------- |
