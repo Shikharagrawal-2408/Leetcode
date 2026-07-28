@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
