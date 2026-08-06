@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
