@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3731-find-missing-elements) |
