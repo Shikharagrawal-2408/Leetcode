@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3379-transformed-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
