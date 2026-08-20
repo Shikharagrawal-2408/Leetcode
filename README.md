@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3379-transformed-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3838-weighted-word-mapping) |
