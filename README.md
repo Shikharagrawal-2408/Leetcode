@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -482,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
