@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
