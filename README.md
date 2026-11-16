@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Shikharagrawal-2408/Leetcode/tree/master/3379-transformed-array) |
